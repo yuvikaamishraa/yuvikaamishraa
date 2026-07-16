@@ -8,4 +8,55 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&random=false&width=700&height=60&lines=AI%2FML+Engineer;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Computer+Vision;Natural+Language+Processing" alt="Typing SVG" />
   </a>
 </p>
+<p align="center">
+  <a href="mailto:yuvikamishra70@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
+  <a href="https://www.linkedin.com/in/yuvika-mishra-219279387/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/yuvikaamishraa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+
+</p>
+
+## 👩‍💻 About Me
+
+```python
+class YuvikaMishra:
+
+    def __init__(self):
+        self.role = "Aspiring AI/ML Engineer"
+        self.language = ["Python", "C++"]
+        self.interests = [
+            "Machine Learning",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision"
+        ]
+
+    def current_focus(self):
+        return [
+            "DSA & Problem Solving",
+            "Building Real-World AI Projects",
+            "Open Source Learning"
+        ]
+```
+🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,opencv,git,github,vscode,linux,mysql,mongodb,html,css,javascript&perline=7" />
+</p>
+## 🌱 Currently Learning
+
+- 🤖 Machine Learning & Deep Learning
+- 🧠 Natural Language Processing (NLP)
+- 👁️ Computer Vision
+- 💻 Data Structures & Algorithms (C++)
+- 🚀 Building Real-World AI Projects
+  
+- > *"Turning data into intelligent solutions, one model at a time."* 🚀
