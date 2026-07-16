@@ -60,3 +60,50 @@ class YuvikaMishra:
 - 🚀 Building Real-World AI Projects
   
 - > *"Turning data into intelligent solutions, one model at a time."* 🚀
+  >
+
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yuvikaamishraa&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yuvikaamishraa&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+</p>
+## 📊 AI Skills Progress
+
+| Skill | Progress |
+|--------|----------|
+| Python | █████████░ 90% |
+| C++ | ████████░░ 80% |
+| Machine Learning | ███████░░░ 70% |
+| Deep Learning | ██████░░░░ 60% |
+| NLP | █████░░░░░ 50% |
+| Computer Vision | █████░░░░░ 50% |
+| SQL | ███████░░░ 70% |
+| Git & GitHub | ███████░░░ 70% |
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvikaamishraa&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+---
+
+<p align="center">
+  <i>🚀 Building intelligent systems, one project at a time.</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</p>
