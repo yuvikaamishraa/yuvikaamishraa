@@ -1,1 +1,1 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Yuvika%20Mishra&fontColor=FFFFFF&fontSize=53&animation=fadeIn&desc=Machine%20Learning%20|%20Deep%20Learning%20|%20NLP%20|%20Computer%20Vision&descSize=22
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Yuvika%20Mishra&fontColor=FFFFFF&fontSize=53&animation=fadeIn&desc=Machine%20Learning%20|%20Deep%20Learning%20|%20NLP%20|%20Computer%20Vision&descSize=22)
